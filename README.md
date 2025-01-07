@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/saimanogna3005/Leetcode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/saimanogna3005/Leetcode/tree/master/0258-add-digits) |
 | [0319-bulb-switcher](https://github.com/saimanogna3005/Leetcode/tree/master/0319-bulb-switcher) |
 ## Simulation
@@ -13,12 +14,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/saimanogna3005/Leetcode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/saimanogna3005/Leetcode/tree/master/0258-add-digits) |
 ## Array
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/saimanogna3005/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0198-house-robber](https://github.com/saimanogna3005/Leetcode/tree/master/0198-house-robber) |
+| [0204-count-primes](https://github.com/saimanogna3005/Leetcode/tree/master/0204-count-primes) |
 ## Two Pointers
 |  |
 | ------- |
@@ -53,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/saimanogna3005/Leetcode/tree/master/0020-valid-parentheses) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/saimanogna3005/Leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
