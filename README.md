@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/saimanogna3005/Leetcode/tree/master/0001-two-sum) |
 | [0042-trapping-rain-water](https://github.com/saimanogna3005/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/saimanogna3005/Leetcode/tree/master/0048-rotate-image) |
 | [0198-house-robber](https://github.com/saimanogna3005/Leetcode/tree/master/0198-house-robber) |
@@ -112,4 +113,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/saimanogna3005/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/saimanogna3005/Leetcode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
