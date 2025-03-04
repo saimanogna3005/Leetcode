@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/saimanogna3005/Leetcode/tree/master/0048-rotate-image) |
 | [0204-count-primes](https://github.com/saimanogna3005/Leetcode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/saimanogna3005/Leetcode/tree/master/0258-add-digits) |
 | [0319-bulb-switcher](https://github.com/saimanogna3005/Leetcode/tree/master/0319-bulb-switcher) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/saimanogna3005/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/saimanogna3005/Leetcode/tree/master/0048-rotate-image) |
 | [0198-house-robber](https://github.com/saimanogna3005/Leetcode/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/saimanogna3005/Leetcode/tree/master/0204-count-primes) |
 | [0283-move-zeroes](https://github.com/saimanogna3005/Leetcode/tree/master/0283-move-zeroes) |
@@ -88,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/saimanogna3005/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/saimanogna3005/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/saimanogna3005/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/saimanogna3005/Leetcode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
