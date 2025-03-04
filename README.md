@@ -31,12 +31,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/saimanogna3005/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/saimanogna3005/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0283-move-zeroes](https://github.com/saimanogna3005/Leetcode/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/saimanogna3005/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/saimanogna3005/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/saimanogna3005/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0198-house-robber](https://github.com/saimanogna3005/Leetcode/tree/master/0198-house-robber) |
 ## Stack
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/saimanogna3005/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/saimanogna3005/Leetcode/tree/master/0020-valid-parentheses) |
 | [0345-reverse-vowels-of-a-string](https://github.com/saimanogna3005/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 ## Enumeration
