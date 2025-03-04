@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/saimanogna3005/Leetcode/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/saimanogna3005/Leetcode/tree/master/0048-rotate-image) |
 | [0204-count-primes](https://github.com/saimanogna3005/Leetcode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/saimanogna3005/Leetcode/tree/master/0258-add-digits) |
@@ -60,12 +61,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/saimanogna3005/Leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/saimanogna3005/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/saimanogna3005/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/saimanogna3005/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/saimanogna3005/Leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/saimanogna3005/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/saimanogna3005/Leetcode/tree/master/0206-reverse-linked-list) |
 ## String
